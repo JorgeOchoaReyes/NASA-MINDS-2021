@@ -6,7 +6,8 @@
 
 #Traditional QWERTY: 
 
-<img src="https://drive.google.com/uc?export=view&id=1wsFSykkBHdGB9VvURoIivSHdJsnNNyyK" width="800">
+![image](https://user-images.githubusercontent.com/60721681/155184118-48128485-e836-4075-8aca-c3a3b2c1df4d.png)
+
 
 
 #Heirchy Based:
