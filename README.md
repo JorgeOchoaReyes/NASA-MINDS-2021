@@ -62,8 +62,7 @@
 
 # Headpointer with Dwell Time: 
 
-<img src="https://drive.google.com/uc?export=view&id=1rT7VSNirC-d6A8HnrzVzUhiZxuOuliOY" width="800">
-
+![image](https://user-images.githubusercontent.com/60721681/155186087-35045591-e1cc-4f52-b3e4-2f42c37e7ce5.png)
 
 
 
