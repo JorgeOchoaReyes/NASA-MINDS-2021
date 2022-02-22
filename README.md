@@ -6,9 +6,6 @@
 
 #Traditional QWERTY: 
 
-![image](https://user-images.githubusercontent.com/60721681/155183848-c96e4327-15f9-455c-8c64-4208562997c1.png)
-
-
 <img src="https://drive.google.com/uc?export=view&id=1wsFSykkBHdGB9VvURoIivSHdJsnNNyyK" width="800">
 
 
