@@ -28,17 +28,18 @@
 
   Level 1:
   
-  ![image](https://user-images.githubusercontent.com/60721681/155185080-8701c703-5d93-4c74-abcb-e1188210a876.png)
+![image](https://user-images.githubusercontent.com/60721681/155185080-8701c703-5d93-4c74-abcb-e1188210a876.png)
 
 
   Level 2:
   
-<img src="https://drive.google.com/uc?export=view&id=1liYFWph8RiThGH8QPj6WfzK0wg8Acqf8" width="800">
+![image](https://user-images.githubusercontent.com/60721681/155185142-27783459-1a0e-4163-a9b3-9e4cc862f653.png)
 
 
 
 
-##Each Keyboard Can Be Operated With 4 Different Modalities. 
+
+## Each Keyboard Can Be Operated With 4 Different Modalities. 
 
 
 # Hand Pointers: 
