@@ -28,7 +28,8 @@
 
   Level 1:
   
-<img src="https://drive.google.com/uc?export=view&id=1SZbmr4ZQxqiyOcXLlGfoO-Zl0FNY7qca" width="800">
+  ![image](https://user-images.githubusercontent.com/60721681/155185080-8701c703-5d93-4c74-abcb-e1188210a876.png)
+
 
   Level 2:
   
