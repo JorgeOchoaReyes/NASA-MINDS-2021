@@ -50,7 +50,7 @@
 
 # Head Pointer: 
 
-<img src="https://drive.google.com/uc?export=view&id=1UgE2BR--fFQdUbZ4h9ptR6hPITHGnNEG" width="800">
+![image](https://user-images.githubusercontent.com/60721681/155185529-f008fc62-4d64-4fc9-8815-1bb946212d34.png)
 
 
 
