@@ -10,7 +10,7 @@
 
 
 
-#Heirchy Based:
+# Heirchy Based:
 
   Level 1:
 
@@ -24,7 +24,7 @@
 
 
 
-#Popup Based: 
+# Popup Based: 
 
   Level 1:
   
@@ -40,25 +40,25 @@
 ##Each Keyboard Can Be Operated With 4 Different Modalities. 
 
 
-#Hand Pointers: 
+# Hand Pointers: 
 
 <img src="https://drive.google.com/uc?export=view&id=1vi9KTJoieLke_ChGXGxgPBUmJ4d1IWGs" width="800">
 
 
 
-#Head Pointer: 
+# Head Pointer: 
 
 <img src="https://drive.google.com/uc?export=view&id=1UgE2BR--fFQdUbZ4h9ptR6hPITHGnNEG" width="800">
 
 
 
-#Touch Controls: 
+# Touch Controls: 
 
 <img src="https://drive.google.com/uc?export=view&id=1ubeOIdJCF9cMZRkSdBHTh7E2OZW_PWa2" width="800">
 
 
 
-#Headpointer with Dwell Time: 
+# Headpointer with Dwell Time: 
 
 <img src="https://drive.google.com/uc?export=view&id=1rT7VSNirC-d6A8HnrzVzUhiZxuOuliOY" width="800">
 
