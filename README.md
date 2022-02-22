@@ -56,7 +56,7 @@
 
 # Touch Controls: 
 
-<img src="https://drive.google.com/uc?export=view&id=1ubeOIdJCF9cMZRkSdBHTh7E2OZW_PWa2" width="800">
+![image](https://user-images.githubusercontent.com/60721681/155185882-072e3cff-8bb5-4633-bb9e-3eb2bceec9ce.png)
 
 
 
