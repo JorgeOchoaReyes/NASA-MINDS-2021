@@ -1,0 +1,15 @@
+ [ 
+ { "DONE": "00:10:191", "Current String":"The Red" }, 
+ { "User Input" : "d" , "at" : "00:10:191", "Current String":"The Red" }, 
+{ "User Input" : "e" , "at" : "00:10:745", "Current String":"The Re" }, 
+{ "User Input" : "Shift" , "at" : "00:09:701", "Current String":"The R" }, 
+{ "User Input" : "R" , "at" : "00:08:768", "Current String":"The R" }, 
+{ "User Input" : "Shift" , "at" : "00:07:682", "Current String":"The " }, 
+{ "User Input" : "Space" , "at" : "00:06:777", "Current String":"The " }, 
+{ "User Input" : "Space", "at": "00:06:777", "Current String":" " }, 
+{ "User Input" : "e" , "at" : "00:05:636", "Current String":"The" }, 
+{ "User Input" : "h" , "at" : "00:03:439", "Current String":"Th" }, 
+{ "User Input" : "Shift" , "at" : "00:02:422", "Current String":"T" }, 
+{ "User Input" : "T" , "at" : "00:01:197", "Current String":"T" }, 
+{ "User Input" : "Shift" , "at" : "00:00:00", "Current String":"" } 
+ ] 

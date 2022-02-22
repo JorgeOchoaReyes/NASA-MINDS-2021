@@ -1,0 +1,17 @@
+ [ 
+ { "DONE": "00:28:622", "Current String":"The Green" }, 
+ { "User Input" : "n", "at": "00:28:622", "Current String":"The Green" }, 
+{ "User Input" : "e", "at": "00:22:247", "Current String":"The Gree" }, 
+{ "User Input" : "e", "at": "00:21:342", "Current String":"The Gre" }, 
+{ "User Input" : "r", "at": "00:20:104", "Current String":"The Gr" }, 
+{ "User Input" : "Shift", "at": "00:18:419", "Current String":"The G" }, 
+{ "User Input" : "G", "at": "00:17:539", "Current String":"The G" }, 
+{ "User Input" : "Shift", "at": "00:16:621", "Current String":"The " }, 
+{ "User Input" : "Space" , "at" : "00:11:82", "Current String":" " }, 
+{ "User Input" : "Space", "at": "00:11:82", "Current String":"The " }, 
+{ "User Input" : "e", "at": "00:09:342", "Current String":"The" }, 
+{ "User Input" : "h", "at": "00:07:114", "Current String":"Th" }, 
+{ "User Input" : "Shift", "at": "00:03:868", "Current String":"T" }, 
+{ "User Input" : "T", "at": "00:02:19", "Current String":"T" }, 
+{ "User Input" : "Shift" , "at": "00:00:00", "Current String":"" } 
+ ] 
