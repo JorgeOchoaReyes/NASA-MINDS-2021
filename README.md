@@ -44,7 +44,7 @@
 
 # Hand Pointers: 
 
-![image](https://user-images.githubusercontent.com/60721681/155185316-244ab1ff-82fd-4964-acc2-4f77d4bf61ea.png)
+![image](https://user-images.githubusercontent.com/60721681/155185453-6a3cc48f-d70e-4b95-9bb4-3283a1088bf8.png)
 
 
 
